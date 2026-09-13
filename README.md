@@ -37,9 +37,6 @@ The project covers the complete mechanical verification workflow of the gearbox,
 This repository contains the final engineering report, supporting calculations, and relevant figures used during the mechanical design verification.
 
 ## Authors
-
-- Mahdy Mokdad
-- Mohammad Mahdi
 - Mohammad Nour Edeen
 
 ## Academic Context
